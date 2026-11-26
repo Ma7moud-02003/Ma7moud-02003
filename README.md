@@ -1,18 +1,17 @@
-<img src="1-banner.png" alt="Mahmoud Amr, Front-End Developer. Angular, TypeScript and responsive web apps." width="100%" />
+<img src="2-banner.png" alt="Mahmoud Amr, Full Stack Developer. Angular, Node.js, NestJS, TypeScript and PostgreSQL." width="100%" />
 
 # Hi, I'm Mahmoud
 
-I'm a Front-End Developer focused on building responsive web applications with Angular and TypeScript. I work with reusable components, RxJS, REST API integration and Firebase.
+I'm a Full Stack Developer. I build web applications with Angular and TypeScript on the front end, and with Node.js, NestJS and PostgreSQL on the back end. I also work with REST APIs and Firebase.
 
 ## Technologies
 
 <img src="2-technologies.png" alt="Angular, TypeScript, JavaScript, RxJS, Tailwind CSS and Firebase" width="100%" />
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, SCSS, RxJS, Angular Material
-- **UI:** Tailwind CSS, Bootstrap, responsive design
-- **Integration:** REST APIs, Firebase Authentication, Firestore
+- **Front end:** Angular, TypeScript, JavaScript, HTML, CSS, SCSS, RxJS, Angular Material, Tailwind CSS, Bootstrap
+- **Back end:** Node.js, NestJS, REST APIs, Firebase Authentication, Firestore
+- **Databases:** PostgreSQL, TypeORM, MongoDB, SQL Server
 - **Tools:** Git, GitHub, Postman, npm
-- **Also worked with:** Node.js, NestJS, PostgreSQL, MongoDB, SQL Server
 
 ## Selected projects
 
@@ -53,4 +52,4 @@ An Angular app for personalized memorization plans and daily progress tracking, 
 ## Background
 
 - BSc in Mathematics & Computer Science, 2026
-- Front-End Development training through the Digital Egypt Pioneers Initiative (DEPI), 2026
+- Web development training through the Digital Egypt Pioneers Initiative (DEPI), 2026
